@@ -1,0 +1,44 @@
+{ "_id" : { "$oid" : "5286f8c870f855d6fb041c2a" }, "id" : 12, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "5286fad770f855d6fb04590a" }, "id" : 13, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "52b64ddd70f855d6fb56a8ca" }, "id" : 70, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "5286f83370f855d6fb0408a7" }, "id" : 11, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "528786fd70f855d6fb11871b" }, "id" : 48, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 6, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52b64dc870f855d6fb56a7d5" }, "id" : 72, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "52871d1870f855d6fb07f600" }, "id" : 40, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 6, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "5287bd5e70f855d6fb14719c" }, "id" : 63, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52aaae2d70f855d6fbf3c81a" }, "id" : 68, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "5286fc8e70f855d6fb048fa3" }, "id" : 42, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "5294ea1370f855d6fb6fafa7" }, "id" : 62, "inTeam" : 0, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "5287277370f855d6fb08edd8" }, "id" : 46, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52c6e77b70f855d6fbc37730" }, "id" : 82, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "529eb9cc70f855d6fbb4a1b1" }, "id" : 65, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "52c6d97270f855d6fbc2e109" }, "id" : 83, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "52907fde70f855d6fb5404f3" }, "id" : 66, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52a531bd70f855d6fbd7cc27" }, "id" : 67, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "528cdec170f855d6fb3c7ebe" }, "id" : 60, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "53077eb918826af5787c5661" }, "cave" : 6, "id" : 110, "playerId" : 7290454, "starStage" : 186, "wpLevel" : 80 }
+{ "_id" : { "$oid" : "52b64dd470f855d6fb56a844" }, "id" : 71, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "52a3ff7d70f855d6fbd20c3b" }, "id" : 74, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52981bf770f855d6fb8148a4" }, "id" : 64, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52a3d79d70f855d6fbd0c233" }, "id" : 75, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52fadbb618826af5780c3346" }, "id" : 104, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "529777e870f855d6fb7e9e8b" }, "id" : 69, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52c8c41e70f855d6fbd8a4a1" }, "id" : 81, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "52a52d5570f855d6fbd7af26" }, "id" : 73, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52bc53ca70f855d6fb865b7d" }, "id" : 84, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52b9606c70f855d6fb6ce3ef" }, "id" : 85, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52b9b2f870f855d6fb75102f" }, "id" : 80, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52d32b8318826af578a341d5" }, "id" : 87, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52d32b8118826af578a341d0" }, "id" : 91, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52dea24518826af578f16a62" }, "id" : 86, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52dea23f18826af578f16a2c" }, "id" : 88, "inTeam" : 1, "playerId" : 7290454, "wpLevel" : 5 }
+{ "_id" : { "$oid" : "52f83ed418826af578dd13dc" }, "id" : 105, "inTeam" : 1, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "52d1719318826af578993621" }, "id" : 89, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52dff07b18826af578f88170" }, "id" : 90, "inTeam" : 0, "playerId" : 7290454 }
+{ "_id" : { "$oid" : "52eee13118826af578913631" }, "cave" : 5, "id" : 103, "playerId" : 7290454, "starStage" : 186, "wpLevel" : 80 }
+{ "_id" : { "$oid" : "5286f6fb70f855d6fb03dfb0" }, "cave" : 7, "id" : 4, "playerId" : 7290454, "skillIndex" : 137, "starStage" : 333, "wpLevel" : 90 }
+{ "_id" : { "$oid" : "52edd24b18826af5788bb9f6" }, "id" : 102, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52f97bae18826af578fe9014" }, "id" : 100, "inTeam" : 1, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "52ed1c6918826af578882f57" }, "cave" : 2, "id" : 101, "playerId" : 7290454, "skillIndex" : 1, "starStage" : 0, "wpLevel" : 0 }
+{ "_id" : { "$oid" : "5308a77f18826af57883e2ef" }, "cave" : 6, "id" : 111, "playerId" : 7290454, "skillIndex" : 2, "starStage" : 186, "wpLevel" : 80 }
+{ "_id" : { "$oid" : "530a208318826af5788cf88a" }, "cave" : 6, "id" : 106, "playerId" : 7290454, "skillIndex" : 2, "starStage" : 186, "wpLevel" : 90, "wpMax" : 90 }
